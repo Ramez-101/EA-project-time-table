@@ -103,16 +103,7 @@ PSO	          8,200	            45	               9,500
 GA	           7,800	            38	               9,200
 Hybrid	       8,600	            50	               9,800
 
-🗂️ Project Structure
-📦 university-timetabling
-├── 📂 idea/ # Project metadata (IDE specific)
-├── 📂 venv/ # Python virtual environment
-├── 📂 Document/ # Additional documentation
-├── 📜 README.md # Project documentation (4 KB)
-├── 📊 students.csv # Student enrollment data (145 KB)
-├── 🎬 tenor.gif # Loading screen animation (1.7 MB)
-├── 🐍 university_timetabling.py # Main application code (97 KB)
-└── 🎵 Unwind(MP3_160K).mp3 # Background music (2.8 MB)
+![{1003B329-E1BB-4F1E-8C0A-B2449EA6E7E9}](https://github.com/user-attachments/assets/b3ba596a-00cb-4a70-829c-8bb3503eb848)
 
 
 
