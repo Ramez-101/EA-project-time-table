@@ -53,6 +53,7 @@ number of students
 pop size 
 number of itrations 
 example:
+
 ![{7C9B09FE-BA3B-43EB-9411-02B9A2BA7EF0}](https://github.com/user-attachments/assets/3adb2f15-2e07-4aa7-951a-f3a17b30e830)
 
 
@@ -102,14 +103,18 @@ PSO	          8,200	            45	               9,500
 GA	           7,800	            38	               9,200
 Hybrid	       8,600	            50	               9,800
 
-📂 Project Structure
-├── main.py                 # Entry point (GUI)  
-├── requirements.txt        # Dependencies  
-├── students.csv            # Sample student data  
-├── docs/  
-│   ├── algorithm_flow.png  # Workflow diagram  
-│   └── results_analysis.md # Performance benchmarks  
-└── README.md               # This file  
+🗂️ Project Structure
+📦 university-timetabling
+├── 📂 idea/ # Project metadata (IDE specific)
+├── 📂 venv/ # Python virtual environment
+├── 📂 Document/ # Additional documentation
+├── 📜 README.md # Project documentation (4 KB)
+├── 📊 students.csv # Student enrollment data (145 KB)
+├── 🎬 tenor.gif # Loading screen animation (1.7 MB)
+├── 🐍 university_timetabling.py # Main application code (97 KB)
+└── 🎵 Unwind(MP3_160K).mp3 # Background music (2.8 MB)
+
+
 
 
 
