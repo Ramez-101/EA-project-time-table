@@ -1,3 +1,5 @@
+Download only EA-project-time-table
+
 University Timetabling System
 
 Hybrid PSO-GA Optimization for Course Scheduling
